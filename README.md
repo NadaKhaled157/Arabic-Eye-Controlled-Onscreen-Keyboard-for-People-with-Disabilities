@@ -1,5 +1,5 @@
 # Arabic-Eye-Controlled-Onscreen-Keyboard-for-People-with-Disabilities
-This is a proposal for an eye-controlled keyboard for people with disabilities such as quadriplageia or cerebral palsy. Our goal is to improve independence in interacting with technology for PWD in the middle east. The keyboard uses computer vision to detect the eyes and choosing letters is done by blinking. We propose a divide and conquer method for choosing the letters to increase typing speed. The keyboard doesn't provide full independence but it's definitely a step in the right direction.
+<p align ="justify"> This is a proposal for an eye-controlled keyboard for people with disabilities such as quadriplageia or cerebral palsy. Our goal is to improve independence in interacting with technology for PWD in the middle east. The keyboard uses computer vision to detect the eyes and choosing letters is done by blinking. We propose a divide and conquer method for choosing the letters to increase typing speed. The keyboard doesn't provide full independence but it's definitely a step in the right direction.</p>
 
 ## Keyboard Design
 A preliminary design for the keyboard.
